@@ -4,5 +4,16 @@
 
 'Programming Complexity' helps software developers and architects by providing detailed insights into the complexity of their codebase. It aids in identifying parts of the software that might be overly complicated or difficult to maintain, thereby allowing teams to focus their refactoring efforts where they are most needed. By understanding the cyclomatic complexity, developers can gauge the potential for errors and the difficulty of testing and debugging. Evaluating code coupling and cohesion helps in recognizing tightly interwoven modules that could benefit from decoupling for better modularity and reusability. Ultimately, 'Programming Complexity' serves as a guide to improving software quality, maintainability, and performance, offering actionable recommendations to reduce complexity and enhance the overall design.
 
+> Alex: *"How complex is this programming or software architecure?"*
+
+#
+### Related Links
+
+[Architectural Software Design](https://chatgpt.com/g/g-h3OUZHAVc-architectural-software-design)
+<br>
+[System Structure](https://chatgpt.com/g/g-xn0SVNQj3-system-structure)
+<br>
+[Software Intelligence](https://chat.openai.com/g/g-46TRn9JOj-software-intelligence)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
