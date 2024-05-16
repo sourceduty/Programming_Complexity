@@ -11,6 +11,8 @@
 #
 ### Related Links
 
+[Programming Diagnostics](https://chatgpt.com/g/g-NjXzC3Dz1-programming-diagnostics)
+<br>
 [Architectural Software Design](https://chatgpt.com/g/g-h3OUZHAVc-architectural-software-design)
 <br>
 [System Structure](https://chatgpt.com/g/g-xn0SVNQj3-system-structure)
