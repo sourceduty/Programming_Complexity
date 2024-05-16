@@ -18,6 +18,8 @@
 [System Structure](https://chatgpt.com/g/g-xn0SVNQj3-system-structure)
 <br>
 [Software Intelligence](https://chat.openai.com/g/g-46TRn9JOj-software-intelligence)
+<br>
+[Code Calculator](https://chat.openai.com/g/g-dKra1u0xF-code-calculator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
